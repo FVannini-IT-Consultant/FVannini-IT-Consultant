@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FVannini-IT-Consultant
+- 👋 Hi, I’m Francesco Vannini @FVannini-IT-Consultant
 - 👀 I’m interested in Cloud Native and Platform Engineering
 - 🌱 I’m currently learning CKS and several other technologies around CI/CD
 
